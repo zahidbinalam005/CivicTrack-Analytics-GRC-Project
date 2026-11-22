@@ -160,7 +160,13 @@ This is an educational portfolio project based on a fictional scenario.
 
 It does not represent an actual security assessment, penetration test, compliance audit, organizational authorization decision, or official NIST certification.
 
-The independently created supporting artifacts are intended to demonstrate my understanding of GRC concepts. They are not official GRC Playground exports or real organizational records.
+## Disclaimer
+
+All supporting artifacts are independently created for educational and portfolio purposes. They are not official GRC Playground exports or real organizational records.
+
+Screenshots are currently excluded because they contain GRC Playground's logo, branding, and custom-developed scenarios. I have requested permission from the platform owner, Ashley Pearce, to publish them. If approved, I will add the permitted screenshots with timestamps and appropriate attribution.
+
+Thank you for understanding.
 
 ---
 
@@ -170,9 +176,8 @@ I am a Master's student in Computational Sciences at Laurentian University, Cana
 
 My goal is to build a strong foundation in cybersecurity through hands-on learning, practical projects, and continuous professional development.
 
-**GitHub:** [Add your GitHub profile URL]  
-**LinkedIn:** [Add your LinkedIn profile URL]
-
+**GitHub:** https://github.com/zahidbinalam005  
+**LinkedIn:** www.linkedin.com/in/md-zahid-bin-alam-892799145
 ---
 
 *This repository will be updated as I develop additional portfolio artifacts and receive clarification regarding screenshot-sharing permissions.*
